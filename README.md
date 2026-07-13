@@ -1,18 +1,35 @@
-## Hi, I'm Asmaa! 👋  
-**Computer Science Student** 
+<h1 align="center">Hi, I'm Asmae Bequi 👋</h1>
+
+<h3 align="center">
+  Software Engineering Student | Backend Development & Machine Learning
+</h3>
+
+<p align="center">
+  Building strong software engineering foundations and learning how to develop intelligent backend systems.
+</p>
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 **Computer Science Student** at **Zhejiang University of Technology**
-- 🌐 Passionate about **cyber security** and **Web Development**
-- 💻 Skilled in **Java** and **C++**
--🔧 Currently developing with **FastAPI** and exploring **Web Development** technologies.
-- 📚 Continuously enhancing my skills in **Web Development** and exploring new technologies.
+## About Me
 
-### 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmaabe01&show_icons=true&hide_title=true&hide=prs&count_private=true)
+- 🎓 Software Engineering student at **Zhejiang University of Technology**
+- ⚙️ Interested in **Backend Development**
+- 🤖 Learning **Machine Learning**
 
+## Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,mysql,git,github,vscode,idea" />
+</p>
 
+## Connect With Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/asmaa-bequi-609070422/">
+    <img src="https://img.shields.io/badge/LinkedIn-Asmae%20Bequi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/asmaebequ/">
+    <img src="https://img.shields.io/badge/LeetCode-asmaebequ-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
